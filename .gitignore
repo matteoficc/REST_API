@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+venv_REST_API/
+.idea/
+test.py
